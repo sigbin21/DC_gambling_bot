@@ -5,7 +5,7 @@ from configparser import ConfigParser
 config_object = ConfigParser()
 
 config_object["admins"] = {
-    "admin1": "ADMIN1",
+    "admin1": "gaygay0099",
     "admin2": "ADMIN2",
     "admin3": "ADMIN3",
     "admin4": "ADMIIN4"
@@ -21,5 +21,6 @@ with open('config.ini', 'w') as conf:
 
 
 commands.start()
+
 
 
