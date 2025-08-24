@@ -62,4 +62,6 @@ def start():
 
 
     client = luck()
-    client.run(TOKEN)
+    client.run(MTQwOTIzNTU2OTM3MTc3NTAyNg.GfStuN.LdCfkRBZhMaRPrQb2x1lbFBDY0r9yQ2XyKCH-k
+              )
+
